@@ -1,0 +1,1 @@
+Arquivo de modelo lógico usado como base para criação do banco de dados do aplicativo App-Scholar.
